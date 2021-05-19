@@ -10,6 +10,8 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Overview
 
+[<img src="./_static/coacch-logo.jpg" width="200" align="right" alt="pyam" />](https://www.coacch.eu)
+
 This repository contains tutorials and guidance for using the **pyam** package
 to work with the data format used in the Horizon 2020 project [COACCH](https://www.coacch.eu).
 
@@ -54,5 +56,5 @@ The rendered html pages will be located in `doc/build/html/index.html`.
 ## Funding acknowledgement
 
 <img src="./_static/EU-logo-300x201.jpg" width="80" height="54" align="left" alt="EU logo" />
-This project has received funding from the European Union’s Horizon 2020 research
-and innovation programme under grant agreement No. 776479.
+This project has received funding from the European Union’s Horizon 2020<br />
+research and innovation programme under grant agreement No. 776479.
