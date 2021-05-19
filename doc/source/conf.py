@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "python-stub"
+project = "COACCH-data-format"
 copyright = "2021 IIASA"
 author = "Daniel Huppmann"
 
