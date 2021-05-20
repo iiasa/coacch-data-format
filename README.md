@@ -1,4 +1,4 @@
-# A template repo for IIASA Python projects
+# The COACCH data format for climate change impact analysis
 
 Copyright (c) 2021 IIASA
 
