@@ -47,7 +47,7 @@ pip install pyam-iamc
 
 ## Building the docs
 
-Run Sphinx to build the docs!
+Run Sphinx to build the docs! See the requirements [here](doc/requirements.txt).
 
     make --directory=doc html
 
