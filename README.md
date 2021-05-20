@@ -1,4 +1,4 @@
-# The COACCH data format for climate change impact analysis
+# The COACCH climate change impact analysis data format
 
 Copyright (c) 2021 IIASA
 
